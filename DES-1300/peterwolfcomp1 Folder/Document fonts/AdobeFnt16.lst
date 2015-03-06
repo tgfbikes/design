@@ -1,0 +1,229 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+MenuName:Arial
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arial
+WritingScript:Roman
+OutlineFileName:\Arial.ttf
+DataFormat:sfntData
+FileLength:774476
+FileModTime:1399597200
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Desdemona
+FamilyName:Desdemona
+StyleName:Regular
+MenuName:Desdemona
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Desdemona
+WritingScript:Roman
+OutlineFileName:\Desdemona
+DataFormat:sfntResource
+ResourceID:4096
+FileLength:55922
+FileModTime:1399597200
+NameArray:0,Mac,4,Desdemona
+NameArray:0,Win,1,Desdemona
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Desdemona
+OutlineFileName:\Desdemona
+ResourceID:6072
+MacStyle:0
+FileLength:55922
+FileModTime:1399597200
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Desdemona
+OutlineFileName:\Desdemona
+ResourceID:6072
+MacStyle:1
+FileLength:55922
+FileModTime:1399597200
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IowanOldStyle-Black
+FamilyName:Iowan Old Style
+StyleName:Black
+MenuName:Iowan Old Style Black
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Iowan Old Style Black
+WritingScript:Roman
+OutlineFileName:\Iowan Old Style.ttc
+TTCOffset:52
+DataFormat:sfntData
+FileLength:3227620
+FileModTime:1405859625
+NameArray:0,Mac,4,Iowan Old Style Black
+NameArray:0,Win,1,Iowan Old Style Black
+NameArray:0,Win,16,Iowan Old Style
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IowanOldStyle-BlackItalic
+FamilyName:Iowan Old Style
+StyleName:Black Italic
+MenuName:Iowan Old Style Black
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Iowan Old Style Black Italic
+WritingScript:Roman
+OutlineFileName:\Iowan Old Style.ttc
+TTCOffset:368
+DataFormat:sfntData
+FileLength:3227620
+FileModTime:1405859625
+NameArray:0,Mac,4,Iowan Old Style Black Italic
+NameArray:0,Win,1,Iowan Old Style Black
+NameArray:0,Win,16,Iowan Old Style
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IowanOldStyle-Bold
+FamilyName:Iowan Old Style
+StyleName:Bold
+MenuName:Iowan Old Style
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Iowan Old Style Bold
+WritingScript:Roman
+OutlineFileName:\Iowan Old Style.ttc
+TTCOffset:700
+DataFormat:sfntData
+FileLength:3227620
+FileModTime:1405859625
+NameArray:0,Mac,4,Iowan Old Style Bold
+NameArray:0,Win,1,Iowan Old Style
+NameArray:0,Win,16,Iowan Old Style
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IowanOldStyle-BoldItalic
+FamilyName:Iowan Old Style
+StyleName:Bold Italic
+MenuName:Iowan Old Style
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Iowan Old Style Bold Italic
+WritingScript:Roman
+OutlineFileName:\Iowan Old Style.ttc
+TTCOffset:1016
+DataFormat:sfntData
+FileLength:3227620
+FileModTime:1405859625
+NameArray:0,Mac,4,Iowan Old Style Bold Italic
+NameArray:0,Win,1,Iowan Old Style
+NameArray:0,Win,16,Iowan Old Style
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IowanOldStyle-Italic
+FamilyName:Iowan Old Style
+StyleName:Italic
+MenuName:Iowan Old Style
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Iowan Old Style Italic
+WritingScript:Roman
+OutlineFileName:\Iowan Old Style.ttc
+TTCOffset:1332
+DataFormat:sfntData
+FileLength:3227620
+FileModTime:1405859625
+NameArray:0,Mac,4,Iowan Old Style Italic
+NameArray:0,Win,1,Iowan Old Style
+NameArray:0,Win,16,Iowan Old Style
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IowanOldStyle-Roman
+FamilyName:Iowan Old Style
+StyleName:Roman
+MenuName:Iowan Old Style
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Iowan Old Style Roman
+WritingScript:Roman
+OutlineFileName:\Iowan Old Style.ttc
+TTCOffset:1648
+DataFormat:sfntData
+FileLength:3227620
+FileModTime:1405859625
+NameArray:0,Mac,4,Iowan Old Style Roman
+NameArray:0,Win,1,Iowan Old Style
+NameArray:0,Win,16,Iowan Old Style
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IowanOldStyle-Titling
+FamilyName:Iowan Old Style
+StyleName:Titling
+MenuName:Iowan Old Style
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Iowan Old Style Titling
+WritingScript:Roman
+OutlineFileName:\Iowan Old Style.ttc
+TTCOffset:1964
+DataFormat:sfntData
+FileLength:3227620
+FileModTime:1405859625
+NameArray:0,Mac,4,Iowan Old Style Titling
+NameArray:0,Win,1,Iowan Old Style
+NameArray:0,Win,16,Iowan Old Style
+%EndFont
+
